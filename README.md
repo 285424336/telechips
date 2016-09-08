@@ -1,0 +1,2 @@
+# telechips
+automotive-linux-platform
